@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Siva Rama Krishna Reddy Padala<br>👀 I’m interested in cp:)<br>🌱 I’m currently pursuing my btech(CSE) in Amrita University Bangalore ...<br>💞️ I’m looking to collaborate on MERN stack related projects,AI/ML,JAVA.PYTHON.<br>📫 How to reach me: mail me @ sivaramakrishnareddy6115@gmail.com :) <br>😄 You can call me as Krish :)<br>⚡ Fun fact: I love coding & exploring the WEB (:
+👋 Hi, I’m @Siva Rama Krishna Reddy Padala<br>👀 I’m interested in cp:)<br>🌱 I’m currently pursuing my btech(CSE) in Amrita University Bangalore ...<br>💞️ I’m looking to collaborate on MERN stack related projects,AI/ML,JAVA.PYTHON.<br>📫 How to reach me: mail me @ sivaramakrishnareddy6115@gmail.com :) <br>😄 You can call me as Krish :)<br>⚡ Fun fact: I love coding & exploring the WEB :)
 
 
 ## 🌐 Socials:
